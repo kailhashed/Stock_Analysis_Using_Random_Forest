@@ -1,0 +1,24 @@
+Stock: AAPL
+Date Range: 2024-03-31 to 2025-03-31
+Mean Squared Error: 12.63
+R² Score: 0.95
+
+Feature Importance:
+Close: 0.3501
+High: 0.1350
+Low: 0.0983
+MA5: 0.0826
+MA20: 0.0705
+BB_middle: 0.0655
+Open: 0.0637
+BB_upper: 0.0536
+MA10: 0.0441
+MACD: 0.0126
+BB_lower: 0.0077
+Volume_MA5: 0.0041
+Signal_Line: 0.0029
+Volume_MA20: 0.0022
+Price_Change: 0.0021
+RSI: 0.0019
+Volume: 0.0018
+High_Low_Range: 0.0016
